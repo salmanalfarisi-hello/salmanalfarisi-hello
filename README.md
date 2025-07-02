@@ -1,110 +1,83 @@
-# 🌟 Salman Alfarisi  
-### **Modern Web Artisan** | **UI/UX Connoisseur** | **Code Poet**  
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences+That+Inspire;Clean+Code+%E2%9D%A4%EF%B8%8F+Pixel-Perfect+Designs;Turning+Coffee+Into+Beautiful+Websites" alt="Typing SVG" />
-</p>
+# 🌟 Salman Alfarisi
 
----
+### *Modern Web Artisan • UI/UX Connoisseur • Code Poet*
 
-## 🚀 Tech Symphony  
-
-### Frontend Elegance  
-<p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
-</p>
-
-### Backend Brilliance  
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-</p>
-
-### Design & Tools  
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-  <img src="https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="Adobe XD" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Welcome+to+my+Digital+Canvas;Crafting+Elegant+Web+Experiences;Building+Tomorrow's+Solutions" alt="Typing SVG" />
 
 ---
 
-## 🎨 Featured Masterpieces  
+### 🎨 *"First, solve the problem. Then, write the code."*
 
-### 1. [Nexus - Modern Dashboard](https://github.com/yourusername/nexus-dashboard)  
-✨ **Next.js + Tailwind + D3.js**  
-A sleek admin dashboard with real-time analytics, custom themes, and interactive data visualization.  
+</div>
 
-### 2. [Lumina - E-commerce](https://github.com/yourusername/lumina-ecommerce)  
-🛍️ **React + Node + Stripe Integration**  
-A performant online store with smooth animations, cart functionality, and secure payments.  
+## 🚀 Tech Symphony
 
-### 3. [FolioX - Portfolio Template](https://github.com/yourusername/foliox)  
-🎨 **GSAP + Three.js**  
-A jaw-dropping portfolio template with 3D elements and micro-interactions.  
+<div align="center">
 
----
+### Frontend Elegance
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-## 📊 GitHub Canvas  
+### Backend Brilliance
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanalfarisi-hello&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6A5ACD&icon_color=6A5ACD" alt="GitHub Stats" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanalfarisi-hello&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6A5ACD" alt="Top Languages" />
-  
-  <img src="https://streak-stats.demolab.com/?user=salmanalfarisi-hello&theme=radical&hide_border=true&background=0d1117&stroke=6A5ACD" alt="Streak Stats" />
-</p>
+### Design & Innovation
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.com&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
----
-
-## 🌱 Currently Cultivating  
-- **Web3 Development** (Solidity, Ethers.js)  
-- **Advanced Animations** (GSAP, Three.js)  
-- **Serverless Architecture** (AWS Lambda)  
+</div>
 
 ---
 
-## 📬 Let's Create Magic  
+## 🎯 Featured Masterpieces
 
-<p align="center">
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-6A5ACD?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<div align="center">
+
+| 🏆 Project | 🛠️ Tech Stack | ✨ Description |
+|------------|---------------|----------------|
+| **🗳️ Blockchain E-Voting** | `HTML` `Blockchain` `Smart Contracts` | Transparent & tamper-proof student election system |
+| **💼 Portfolio Showcase** | `HTML` `CSS` `Responsive Design` | Elegant personal portfolio with modern aesthetics |
+| **⚡ PHP CRUD System** | `PHP` `MySQL` `Bootstrap` | Full-stack web application with database operations |
+| **🎪 Workshop Hub** | `HTML` `Interactive Design` | Educational platform for coding workshops |
+
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=salmanalfarisi-hello&label=PROFILE+VIEWS&color=6A5ACD&style=flat-square" alt="Profile Views" />
-</p>
+## 📊 GitHub Analytics
 
-<p align="center">
-  <em>"First, solve the problem. Then, write the code." — John Johnson</em>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github.com/salmanalfarisi-hello/salmanalfarisi-hello/blob/main/assets/wave.svg" alt="Footer Wave" />
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=salmanalfarisi-hello&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanalfarisi-hello&layout=compact&langs_count=8&theme=tokyonight"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=salmanalfarisi-hello&theme=tokyonight)
+
+</div>
 
 ---
 
-<p align="center">
-  <strong>Crafted with ❤️ by Salman Alfarisi</strong><br>
-  <strong>⚡ Electrifying the web, one pixel at a time</strong>
-</p>
+## 🌱 Currently Cultivating
+
+<div align="center">
+
+```javascript
+const salman = {
+    currentFocus: ["Web3 Development", "Advanced Animations", "Serverless Architecture"],
+    learning: ["Solidity", "GSAP", "Three.js", "AWS Lambda"],
+    askMeAbout: ["Web Development", "UI/UX Design", "Blockchain", "PHP"],
+    funFact: "I debug with console.log and I'm not ashamed! 🐛"
+};
