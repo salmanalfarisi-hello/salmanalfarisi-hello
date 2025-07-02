@@ -58,4 +58,4 @@ PHP MySQL Bootstrap
 <div align="center"> <img
     src="https://komarev.com/ghpvc/?username=salmanalfarisi-hello&label=Profile%20Views&color=0e75b6&style=flat"
     alt="salmanalfarisi-hello" /> <img
-    src="https://visitor-badge.laobi.icu/badge?page_id=salmanalfarisi-hello.salmanalfarisi-hello" /> </div> ```
+    src="https://visitor-badge.laobi.icu/badge?page_id=salmanalfarisi-hello.salmanalfarisi-hello" /> </div>
