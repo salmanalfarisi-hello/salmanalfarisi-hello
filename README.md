@@ -1,90 +1,71 @@
-<!-- HEADER -->
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 700; color: #0f172a;">
-  👋 Hi, I'm <span style="color:#2563eb;">Salman Alfarisi</span>
-</h1>
-<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-weight: 400; color: #64748b; font-size: 1.2rem; max-width: 600px; margin: auto;">
-  A <strong>Web Developer</strong> & <strong>Blockchain Enthusiast</strong> passionate about crafting elegant, scalable, and modern web applications.
+<p align="center">
+  <img src="https://media.giphy.com/media/Ju7l5y9osyymQ/giphy.gif" alt="Cool Animated Code" width="300"/>
+</p>
+
+<h1 align="center" style="color:#0ea5e9;">Hello, I'm Salman Alfarisi 👋</h1>
+<p align="center" style="font-size:1.2rem; color:#64748b; max-width:600px; margin:auto;">
+  A passionate <b>Web Developer</b> & <b>Blockchain Enthusiast</b> crafting clean, scalable, and innovative digital solutions.
 </p>
 
 ---
 
-<!-- SOCIAL LINKS -->
-<p align="center" style="margin-top: 10px;">
-  <a href="https://github.com/salmanalfarisi-hello" target="_blank" aria-label="GitHub" style="margin: 0 12px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<p align="center">
+  <a href="https://github.com/salmanalfarisi-hello" target="_blank">
+    <img src="https://img.shields.io/github/followers/salmanalfarisi-hello?label=Followers&style=social" alt="Followers" />
   </a>
-  <a href="https://linkedin.com/in/salmanalfarisi" target="_blank" aria-label="LinkedIn" style="margin: 0 12px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://linkedin.com/in/salmanalfarisi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/salmanalfarisi" target="_blank" aria-label="Twitter" style="margin: 0 12px; text-decoration: none;">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  <a href="https://twitter.com/salmanalfarisi" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/salmanalfarisi?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
 ---
 
-<!-- ABOUT ME -->
-## ✨ About Me
+## 🚀 About Me
 
-> Crafting sleek and robust web experiences with a keen eye for blockchain innovation.  
-> Always learning, always evolving.
-
-- 🔭 Currently developing a **Blockchain-based E-Voting App** for secure, transparent elections.  
-- 💻 Skilled in **Modern Web Development** using React, Laravel, TailwindCSS.  
-- 🔗 Passionate about **Smart Contracts** & **Decentralized Applications**.  
-- 🌱 Constantly exploring new tech stacks & best practices.
+- 🔭 Currently building **blockchain-based e-voting apps**  
+- 🌱 Learning advanced **smart contracts & DeFi** technologies  
+- 💻 Experienced in modern **web development** with focus on performance & UX  
+- 📫 Contact me: [email@example.com](mailto:email@example.com)  
 
 ---
 
-<!-- TECH STACK -->
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-| Frontend | Backend | Blockchain | Tools & Others |
-| -------- | ------- | ---------- | -------------- |
-|  
-<img alt="HTML5" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />  
-<img alt="CSS3" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />  
-<img alt="TailwindCSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" />  
-<img alt="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" /> | 
-<img alt="PHP" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" />  
-<img alt="Laravel" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg" width="40" />  
-<img alt="Python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />  
-<img alt="Flask" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" /> | 
-<img alt="Solidity" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solidity/solidity-original.svg" width="40" />  
-<img alt="Ethereum" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40" />  
-<img alt="Web3js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/web3js/web3js-original.svg" width="40" /> | 
-<img alt="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />  
-<img alt="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" />  
-<img alt="VSCode" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" />  
-<img alt="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" />  
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-F95302?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=ethereum&logoColor=white" alt="Solidity" />
+  <img src="https://img.shields.io/badge/Web3.js-3C3C3D?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="Web3.js" />
+</p>
 
 ---
 
-<!-- PROJECTS -->
 ## 🌟 Featured Projects
 
-| Project | Description |
-| ------- | ----------- |
-| [Blockchain E-Voting App](https://github.com/salmanalfarisi-hello/blockchain-e-voting-app) | Transparent and tamper-proof election system built on blockchain. |
-| [Portfolio Website](https://github.com/salmanalfarisi-hello/PORTOFOLIO-HTML-CSS) | Responsive portfolio site to showcase skills and projects. |
-| [PHP CRUD Application](https://github.com/salmanalfarisi-hello/PHP-CRUD) | Secure, clean PHP CRUD app with database integration. |
+| Project | Description | Link |
+|---|---|---|
+| **Blockchain E-Voting App** | Secure & transparent blockchain voting system | [View Repo](https://github.com/salmanalfarisi-hello/blockchain-e-voting-app) |
+| **Portfolio Website** | Responsive personal portfolio built with HTML, CSS | [View Repo](https://github.com/salmanalfarisi-hello/PORTOFOLIO-HTML-CSS) |
+| **PHP CRUD App** | Clean PHP CRUD application with database integration | [View Repo](https://github.com/salmanalfarisi-hello/PHP-CRUD) |
 
 ---
 
-<!-- STATS -->
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=salmanalfarisi-hello&show_icons=true&theme=vue-dark" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanalfarisi-hello&layout=compact&theme=vue-dark" width="49%" />
+  <img alt="Salman Alfarisi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=salmanalfarisi-hello&show_icons=true&count_private=true&theme=vision-friendly-dark" width="48%" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=salmanalfarisi-hello&layout=compact&theme=vision-friendly-dark" width="48%" />
 </p>
 
 ---
 
-<p align="center" style="font-style: italic; color: #94a3b8;">
-Thank you for visiting! Let's build something amazing together ✨
+<p align="center" style="font-size:0.9rem; color:#94a3b8;">
+Thanks for visiting! 🚀 Let's build amazing things together.
 </p>
