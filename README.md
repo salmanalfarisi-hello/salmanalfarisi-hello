@@ -8,7 +8,6 @@
 </div>
 
 ## 🧑‍💻 About Me
-```diff
 # Focused on creating decentralized solutions
 + Currently developing blockchain applications
 ! Passionate about web3 technologies
